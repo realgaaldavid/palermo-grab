@@ -1,4 +1,5 @@
 .directory
 /*/.directory
-/.idea
-notes
+.idea
+__pycache__
+/*/__pycache__
